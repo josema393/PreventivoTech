@@ -1,0 +1,10 @@
+{
+  "description": "Prototipo académico para que las familias de Laredo exploren datos preventivos simulados, aprendan medidas de preparación y creen un plan familiar.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
